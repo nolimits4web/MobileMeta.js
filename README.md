@@ -1,4 +1,5 @@
-<h1>MobileMeta.js - Small and lightweight JS library which saves a lot of time configuring mobile meta tags, such as viewport, home screen icons and startup screens for iOS web apps</h1>
+<h1>MobileMeta.js</h1> 
+<p>Small and lightweight JS library which saves a lot of time configuring mobile meta tags, such as viewport, home screen icons and startup screens for iOS web apps</h1>
 
 <h2>Usage</h2>
 <p>Add script to HTML:</p>
